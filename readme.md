@@ -1,0 +1,1 @@
+This is a practice repository for the freeCodeCamp git tutorials.
